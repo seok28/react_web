@@ -15,7 +15,7 @@ function Nav() {
 
       <ContlorBox >
         
-        <Contlor href='/connect'>미구현 </Contlor>
+        <Contlor href='/connect'>미구현1 </Contlor>
         <Contlor href='/login'>로그인</Contlor>
         <Contlor href='/signup'>회원가입</Contlor>
       </ContlorBox>
