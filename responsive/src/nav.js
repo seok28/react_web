@@ -19,7 +19,7 @@ function Nav() {
         <Contlor href='/login'>로그인</Contlor>
         <Contlor href='/signup'>회원가입</Contlor>
       </ContlorBox>
-      <Menubar href='#' onClick={() => {setmenu(!menu)}}>
+      <Menubar href='/' onClick={() => {setmenu(!menu)}}>
           <IoIosMenu></IoIosMenu> 
       </Menubar>
     </Common>
